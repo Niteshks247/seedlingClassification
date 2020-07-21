@@ -15,16 +15,17 @@ Kaggle has the complete dataset used for a competition here:
 
 ## Project reference
 This project was created as a learning experience after 2 years of competition on tensorflow.
-It achieved an accuracy of 94% on the competition, here a link to the notebook:  
+It achieved an accuracy of 94% on the competition, here is a link to the notebook:  
 
 &nbsp;
   
-&nbsp;&nbsp;&nbsp;&nbsp; https://www.kaggle.com/niteshksingh/plant-seedling-cnn-acc-0-94  
+&nbsp;&nbsp;&nbsp;&nbsp; https://www.kaggle.com/niteshksingh/plant-seedling-cnn-acc-0-96  
    
 &nbsp;
   
 ## Saved Model (including weights)
 A saved Model that can be easily used with tensorflow has been included in the "Model" directory.  
+&nbsp;&nbsp;&nbsp;&nbsp; example: model = tf.keras.models.load_model("saved_model")
 
 &nbsp;
 
