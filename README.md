@@ -5,6 +5,20 @@ A CNN model to classify 12 categories of seedlings through their image
 
 ## Dataset
 The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, released a dataset containing images of approximately 960 unique plants belonging to 12 species at several growth stages.
+###### CATEGORIES
+      ['Loose Silky-bent',
+      'Common Chickweed',
+      'Black-grass',
+      'Charlock',
+      'Small-flowered Cranesbill',
+      'Sugar beet',
+      'Maize',
+      'Fat Hen',
+      'Cleavers',
+      'Common wheat',
+      'Scentless Mayweed',
+      'Shepherds Purse']  
+  
 Kaggle has the complete dataset used for a competition here:  
 
 &nbsp;
@@ -15,7 +29,7 @@ Kaggle has the complete dataset used for a competition here:
 
 ## Project reference
 This project was created as a learning experience after 2 years of competition on tensorflow.
-It achieved an accuracy of 94% on the competition, here is a link to the notebook:  
+It achieved an accuracy of 96% on the competition, here is a link to the notebook:  
 
 &nbsp;
   
