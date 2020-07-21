@@ -31,7 +31,7 @@ A saved Model that can be easily used with tensorflow has been included in the "
 ## Check the model out
 I am also including a py script you can directly use to classify images as "run.py".  
 Use this syntax in the project directory: 
-&nbsp;&nbsp; ***python3 run.py \<True path to image1\> \<True path to image2\> \<True path to image3\> ...***
+&nbsp;&nbsp; ***python3 run.py \<True path to image1\> \<True path to image2\> \<True path to image3\> ...***  
 Note: You will need cv2 and tensorflow 2+ installed in a python environment to run the script.
 
 &nbsp;
